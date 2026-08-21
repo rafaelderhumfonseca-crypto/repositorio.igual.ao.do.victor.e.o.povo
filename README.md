@@ -24,8 +24,6 @@ Utilisação em mais de um tipo de maquina (computadores, tablet's e celulares)
 1. falhas de banco de dados
 2. falha no funcionamento como servidor remoto
 3. falhas visuais
-## Cronograma básico (semanas)
-- não definido
 ## Integrantes e papéis
 1. Rafael-Product Manager
 2. Victor-Tech Lead Back-End/Bd
