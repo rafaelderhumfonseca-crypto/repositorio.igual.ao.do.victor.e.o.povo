@@ -4,7 +4,7 @@ Template do README.md
 > **Curso:** Técnico em Desenvolvimento de Sistemas  
 > **Disciplina:** Inovação Tecnológica e Empreendedorismo  
 > **Professor:** Diego  
-> **Projeto:** NEXUS STORE - E-commerce de Tecnologia, Consoles, Hardware e Jogos (AV5)  
+> **Projeto:** Nexus Store - E-commerce de Tecnologia, Consoles, Hardware e Jogos (AV5)  
 > **Equipe:** Pescadores de Algoritmos  
 > **Data:** 24 e 25/08/2026  
 
@@ -50,7 +50,7 @@ Para o acompanhamento do desenvolvimento, utilizamos o quadro Kanban no Trello, 
 - 🔗 **Quadro Kanban (Trello):** [Acessar Trello - Pescadores de Algoritmos](https://trello.com/invite/b/6a33d90f726edf92ec51a576/ATTIdab6a2695f1ec5d2119e765574461099DB04A9A9/gaminnosso)
 
 **Print do Trello** <img width="1917" height="897" alt="Captura de tela 2026-08-24 230436" src="https://github.com/user-attachments/assets/a62cd2c9-c7a3-4dfd-91c3-7f96d508945b"/>
-*Visão geral do quadro Trello do projeto Nexsus Gamimg.*
+*Visão geral do quadro Trello do projeto  Nexus Store.*
 
 ### Tabela de Indicadores Ágeis
 
@@ -76,7 +76,7 @@ Para o acompanhamento do desenvolvimento, utilizamos o quadro Kanban no Trello, 
 
 **Por que construir o MVP no Figma é a Melhor Escolha?**
 1. Agilidade Extrema na Iteração e Validação: Alterar um fluxo de telas, ajustes de layout ou reorganizar um catálogo no Figma leva poucos minutos. Refatorar código PHP, JavaScript e alterar schemas no MySQL pode levar dias, atrasando a validação com o público-alvo.
-2. Foco Total na Experiência do Usuário (UX/UI): Como o grande diferencial do projeto NEXUS STORE é a aplicação da psicologia das cores e gatilhos de neuromarketing, o Figma permite testar paletas, contrastes e ergonomia visual sem interferência de bugs de código ou limitações técnicas temporárias.
+2. Foco Total na Experiência do Usuário (UX/UI): Como o grande diferencial do projeto Nexus Store é a aplicação da psicologia das cores e gatilhos de neuromarketing, o Figma permite testar paletas, contrastes e ergonomia visual sem interferência de bugs de código ou limitações técnicas temporárias.
 3. Simulação Realista para Testes de Usabilidade: O Figma permite criar um protótipo navegável de alta fidelidade com cliques, transições de tela, estados de hover e simulação de dados, oferecendo aos testadores uma experiência quase idêntica à de um site em produção.
 4. Alinhamento e Colaboração Síncrona da Equipe: O Product Manager, os Designers, o Tech Lead e o QA podem navegar no mesmo arquivo em tempo real, validando fluxos de usuário, levantando regras de negócio e antecipando problemas de arquitetura antes mesmo de digitar a primeira linha de código.
 5. Redução Drástica de Riscos e Custos de Desenvolvimento (ROI): Validar primeiro o protótipo garante que a equipe construa exatamente a solução aprovada pelos usuários, evitando desperdício de horas de desenvolvimento backend/frontend.
@@ -97,13 +97,13 @@ Somos a equipe **Pescadores de Algoritmos**, alunos do curso Técnico em Desenvo
 O mercado de tecnologia e games evolui em ritmo acelerado, mas a experiência de compra muitas vezes peca em clareza, transparência e ergonomia visual. Plataformas confusas causam frustração e perda de tempo ao consumidor.
 
 ### Solução
-Desenvolvemos a **Nexsus Gamimg**: uma solução web responsiva desenvolvida em PHP, MySQL, HTML5 e CSS3. Nossa plataforma aplica técnicas de psicologia das cores e UX intuitiva, combinada com controle seguro de sessões (`$_SESSION`), autenticação de usuários e navegação estruturada em 4 pilares: *Placas de Vídeo*, *Hardware*, *Celulares* e *Jogos*.
+Desenvolvemos a **Nexus Store**: uma solução web responsiva desenvolvida em PHP, MySQL, HTML5 e CSS3. Nossa plataforma aplica técnicas de psicologia das cores e UX intuitiva, combinada com controle seguro de sessões (`$_SESSION`), autenticação de usuários e navegação estruturada em 4 pilares: *Placas de Vídeo*, *Hardware*, *Celulares* e *Jogos*.
 
 ### Prova
 Validamos nosso MVP com 6 usuários do nosso público-alvo, atingindo **83,3% de taxa de interesse** e um **NPS de 8,2**, confirmando a eficácia da interface intuitiva e a agilidade do sistema.
 
 ### Chamada para Ação (CTA)
-Convidamos você a explorar nosso protótipo interativo, testar nosso repositório e acompanhar a evolução da **Nexsus Gamimg**!
+Convidamos você a explorar nosso protótipo interativo, testar nosso repositório e acompanhar a evolução da **Nexus Store**!
 
 ---
 
